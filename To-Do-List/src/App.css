@@ -1,0 +1,18 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+input{
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+.taj-row{
+  margin: 10px 5px;
+}
+.taj-btn {
+  width: 80px;
+}
