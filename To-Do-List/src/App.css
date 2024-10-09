@@ -16,3 +16,8 @@ input{
 .taj-btn {
   width: 80px;
 }
+.welcome{
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+}
